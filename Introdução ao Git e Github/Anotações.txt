@@ -1,0 +1,13 @@
+Link para download do Git: https://git-scm.com/downloads
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comando do Git
+"cd 'nome da pasta'" - para entrar dentro de uma pasta
+"ls" - ver o que tem dentro da pasta 
+"git add ." - para adcionar um arquivo no repositório local (ponto "." para adcionar todas as mudanças)
+"git commit -m "comentário ou mensagem" - para commitar o repositório local (o "-m" serve para adcionar um comentário ou mensagem)
+"git status" - para consultar o status do repositório local
+"git push origin master" - enviar o repositório local para o Github
+"git pull origin master 'link do diretório'" - enviar do Github para o repositório local
+"git clone 'link do diretório'" - para clonar um diretório do Github
